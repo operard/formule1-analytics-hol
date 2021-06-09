@@ -14,7 +14,7 @@ If you don't have the required permissions and quota, contact your tenancy admin
 
 ## Deploy Using Oracle Resource Manager
 
-1. Click [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/operard/redbull-analytics-hol/releases/latest/download/redbull-beginners-hol-latest.zip)
+1. Click [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/operard/formule1-analytics-hol/releases/latest/download/redbull-beginners-hol-latest.zip)
 
     If you aren't already signed in, when prompted, enter the tenancy and user credentials.
 
@@ -37,8 +37,8 @@ If you don't have the required permissions and quota, contact your tenancy admin
 ### Clone of the repo
 Now, you'll want a local copy of this repo. You can make that with the commands:
 
-    git clone https://github.com/operard/redbull-analytics-hol.git
-    cd redbull-analytics-hol/beginners
+    git clone https://github.com/operard/formule1-analytics-hol.git
+    cd formule1-analytics-hol/beginners
     ls
 
 ### Prerequisites
