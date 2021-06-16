@@ -39,3 +39,20 @@ docker container stop jhipster
 And to start again, run: 
 docker container start jhipster
 
+
+# Accessing the container
+
+The easiest way to log into the running container is by executing following command:
+
+docker container exec -it <container_name> bash
+
+If you copy-pasted the above command to run the container, notice that you have to specify jhipster as the container name:
+
+docker container exec -it jhipster bash
+
+You will log in as the “jhipster” user.
+
+If you want to log in as “root”, as the sudo command isn’t available in Ubuntu Xenial, you need to run:
+
+docker container exec -it --user root jhipster bash
+
