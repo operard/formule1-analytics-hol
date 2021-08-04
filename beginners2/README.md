@@ -32,14 +32,6 @@ If you don't have the required permissions and quota, contact your tenancy admin
 
 7. If no further changes are necessary, return to the Stack Details page, click **Terraform Actions**, and select **Apply**. 
 
-## Deploy Using the Terraform CLI
-
-### Clone of the repo
-Now, you'll want a local copy of this repo. You can make that with the commands:
-
-    git clone https://github.com/operard/formule1-analytics-hol.git
-    cd formule1-analytics-hol/beginners
-    ls
 
 ### Prerequisites
 First off, you'll need to do some pre-deploy setup.  That's all detailed [here](https://github.com/cloud-partners/oci-prerequisites).
